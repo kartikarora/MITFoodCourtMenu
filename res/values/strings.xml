@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MIT Food Court Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="MIT_intro_header">Manipal Institute of Technology</string>
+    <string name="app_desc">Food Court Menu</string>
+    <string name="conn_butn_text">See today\'s menu</string>
+    <string name="rev_butn_text">See reviews</string>
+    <string name="uc_chaudd">Powered By: {UC} Code | code.ultimatechallenge.in</string>
+    <string name="reviews_text">Loading Reviews</string>
+    <string name="user_rev_text">Post a review</string>
+    <string name="post_rev_text">Submit</string>
+    <string name="output_text">Loading Menu\.\.\.</string>
+    <string name="contact_header">Contact the food court</string>
+    <string name="contact_butn_desk_text">Helpdesk</string>
+    <string name="contact_butn_office_text">Office</string>
+
+</resources>
